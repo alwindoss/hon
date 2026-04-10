@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import AdminDashboard from './AdminDashboard.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <AdminDashboard />
   </main>
 </template>
